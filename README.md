@@ -36,7 +36,7 @@
 <!--- - [قدردانی](#acknowledgments) --->
 
 ## 🧐 صورت‌بندی سوال <a name = "problem_statement"></a>
-![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cbegin%7Bequation%2A%7D%0A%5Csum_%7Bi%3D1%7D%5En%20v_i%26%5C%5C%0As.t.%26Sv%20%3D%200%5C%5C%0A%26l%5E1%20%5Cleq%20v%20%5Cleq%20u%5E1%5C%5C%0A%5Cend%7Bequation%2A%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![question](https://github.com/AhmadRHM/Optimizer2021_Round1/blob/main/images/question.jpg?raw=true)
 
 ## 💡 الگوریتم بهینه‌سازی <a name = "idea"></a>
 <div dir = "rtl">
